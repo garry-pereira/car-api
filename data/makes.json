@@ -1,1 +1,6 @@
-[{"make":"Toyota"},{"make":"Hyundai"},{"make":"bmw"}]
+[
+  { "make": "Toyota" },
+  { "make": "Hyundai" },
+  { "make": "bmw" },
+  { "make": "Lexus" }
+]
